@@ -2,7 +2,7 @@
   "name": "friends-profile",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lmanish1996.github.io/Friends-list",
+  "homepage": "https://kmanish1996.github.io/Friends-list",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
